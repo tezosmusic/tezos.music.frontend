@@ -26,7 +26,7 @@ const Header = ({ Tezos, wallet, setTezos }) => {
   return (
     <div className="ui menu black" style={{ marginTop: "5px" }}>
       <a href="/#" className="ui header item">
-        NFTs
+        TezosMusic
       </a>
       <Link className="item" to="/">
         Home
